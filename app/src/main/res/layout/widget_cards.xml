@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/content_widget"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/card1_imageview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:rotation="-30"/>
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/card2_imageview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:rotation="-15"/>
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/card3_imageview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:rotation="0"/>
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/card4_imageview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:rotation="15"/>
+
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/card5_imageview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:rotation="30" />
+
+</RelativeLayout>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Card generator</string>
+    <string name="title_activity_generator_cards">GeneratorCardsActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_message_quantity_of_cards_deck">Quantity of cards deck</string>
+    <string name="text_message_choose">Choose</string>
+    <string name="text_message_random">Random</string>
+
+    <string name="message_error_cannot_connect_with_server">Cannot connect with server</string>
+    <string name="message_shuffled_success">Shuffled cards</string>
+    <string name="message_error_cannot_sort_cards">We could not sort the cards</string>
+
+    <string name="message_colour" formatted="false">Color - %s</string>
+    <string name="message_stairs" formatted="false">Stairs - %s</string>
+    <string name="message_figures" formatted="false">Figures - %s</string>
+    <string name="message_twins" formatted="false">Twins - %s</string>
+
+</resources>
